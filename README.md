@@ -40,17 +40,17 @@
 
 ### Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch,sklearn" width="600" height="600"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch,sklearn" width="540" height="540"/>
 </p>
 
 ### Databases:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" width="280" height="280"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" width="200" height="200"/>
 </p>
 
 ### Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,xampp" width="480" height="480"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,xampp" width="380" height="380"/>
 </p>
 
 
