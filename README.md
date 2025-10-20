@@ -12,9 +12,9 @@
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px">
 </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=4FC3F7&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Apps+with+React+%26+Next.js;Blending+Code+%26+Creativity;Empowering+Ideas+Through+Technology" alt="Typing SVG" />
-</div>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Interactive+Experiences;Code.+Create.+Innovate.;Building+the+Future+One+Commit+at+a+Time." alt="Typing SVG" />
+</h3>
 
 ## 🚀 About Me
 
