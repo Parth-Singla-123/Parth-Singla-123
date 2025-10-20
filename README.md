@@ -1,68 +1,71 @@
-<h2 align="left">Hi 👋! I'm Parth Singla</h2>
+<div align="center">
+  <!-- Typing animation SVG for roles -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Digital+Solutions" alt="Typing SVG" />
+  
+  <p align="center">
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/Parth-Singla-123/count.svg" />
+  </p>
 
-### 🚀 What I Do
-I'm a **Pre-Final Year CSE student** at **Netaji Subhas University of Technology (NSUT), Delhi**. I specialize in:
+  <!-- Snake animation (optional, dark/light mode) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parth-Singla-123/Parth-Singla-123/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parth-Singla-123/Parth-Singla-123/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Parth-Singla-123/Parth-Singla-123/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-- **Full Stack Development**: Building scalable web applications using **React**, **Next.js**, and **Node.js**.
-- **Machine Learning**: Implementing real-world ML solutions.
-- **Competitive Programming**: Active on **LeetCode** and **Codeforces**.
+<h1 align="center">
+  Hi, I'm Parth Singla
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px">
+</h1>
 
-I'm currently seeking **contract roles** and **collaborations** in open-source projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=500&lines=Always+Learning,+Always+Growing;Passionate+about+Building+Digital+Solutions;Let's+Collaborate+on+Open+Source+Projects!" alt="Typing SVG" />
+</p>
 
----
+## 🚀 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif">
+
+- 🔭 Pre-Final Year CSE Student at **NSUT, Delhi**  
+- 🌱 Exploring **Full Stack Development**, **Machine Learning**, **System Design**  
+- 👯 Looking to collaborate on **Open Source Projects** & **Contract Roles**  
+- 💬 Ask me about **Web Development**, **ML/DL**, **DSA/CP**  
+- 🎯 Goal: Contribute to impactful open-source projects & build real-world solutions  
+- 📫 Reach me at: [parthsingla829@gmail.com](mailto:parthsingla829@gmail.com)  
+- 💼 Portfolio: [parthsingla.dev](https://parthsingla.dev)  
+- 😄 Pronouns: He/Him
+
+## 🛠️ Tech Stack & Tools
+
+#### Languages & Frameworks:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</p>
+
+#### Tools & Databases:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mongodb,prisma,sql,tailwind,bootstrap" width="40" height="40"/>
+</p>
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="mailto:parthsingla829@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" /></a>
+  <a href="https://www.linkedin.com/in/parth-singla-077063193/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" /></a>
+  <a href="https://leetcode.com/u/ParthSingla6900/"><img src="https://img.shields.io/badge/LeetCode-1868-informational?logo=leetcode&color=FFA116&style=for-the-badge" height="35" /></a>
+  <a href="https://codeforces.com/profile/ParthSingla"><img src="https://img.shields.io/badge/Codeforces-1248-informational?logo=codeforces&color=1F1F1F&style=for-the-badge" height="35" /></a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Singla-123&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth-Singla-123&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <br><br>
+  <h3>💖 Thanks for visiting! Let's build something amazing together.</h3>
 </div>
-
----
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-### 🛠 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-</div>
-
----
-
-### 📫 Connect with Me
-
-<div align="left">
-  <a href="mailto:parthsingla829@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/parth-singla-077063193/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://leetcode.com/u/ParthSingla6900/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-informational?logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
-  </a>
-  <a href="https://codeforces.com/profile/ParthSingla" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1248-informational?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces Profile" />
-  </a>
-</div>
-
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Parth-Singla-123/Parth-Singla-123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
