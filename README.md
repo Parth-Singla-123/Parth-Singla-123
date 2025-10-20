@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Typing animation for your roles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Applied+Machine+Learning;Open+Source+Contributor;Building+Digital+Solutions" alt="Typing SVG" />
 </div>
 
 <br clear="both">
@@ -13,7 +13,7 @@
 </h1>
 
 <h3 align="center" style="color:#2C9ECF;">
-  💡 Full Stack Developer | Machine Learning Enthusiast | Open Source Builder  
+  💡 Full Stack Developer | Applied Machine Learning | Open Source Builder  
 </h3>
 <p align="center">
   <i>"Bridging the gap between innovation and impact through clean, intelligent code."</i>
