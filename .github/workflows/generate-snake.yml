@@ -9,22 +9,22 @@ on:
       - main
 
 jobs:
-  build:
-    name: Generate Snake
+  generate:
+    name: generate-snake
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Parth-Singla-123
           outputs: dist/snake.svg
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Upload to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
