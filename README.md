@@ -1,5 +1,16 @@
 <h2 align="left">Hi 👋! I'm Parth Singla</h2>
 
+<hr>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Parth-Singla-123/Parth-Singla-123/assets/banner.gif" alt="Banner" width="600"/>
+</div>
+
+<hr>
+
+### 🚀 What I Do  
+I build scalable web applications using React, Next.js and Node.js; I delve into machine learning for real-world insights. I love open-source and am actively seeking **contract roles** & **collaborations**.
+
 ###
 
 <div align="center">
@@ -11,7 +22,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+### 🛠 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
