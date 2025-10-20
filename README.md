@@ -1,16 +1,22 @@
 <h2 align="left">Hi 👋! I'm Parth Singla</h2>
 
-### 🚀 What I Do  
-I build scalable web applications using React, Next.js and Node.js; I delve into machine learning for real-world insights. I love open-source and am actively seeking **contract roles** & **collaborations**.
+### 🚀 What I Do
+I'm a **Pre-Final Year CSE student** at **Netaji Subhas University of Technology (NSUT), Delhi**. I specialize in:
 
-###
+- **Full Stack Development**: Building scalable web applications using **React**, **Next.js**, and **Node.js**.
+- **Machine Learning**: Implementing real-world ML solutions.
+- **Competitive Programming**: Active on **LeetCode** and **Codeforces**.
+
+I'm currently seeking **contract roles** and **collaborations** in open-source projects.
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parth-Singla-123&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth-Singla-123&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+---
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -34,7 +40,9 @@ I build scalable web applications using React, Next.js and Node.js; I delve into
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
 
-###
+---
+
+### 📫 Connect with Me
 
 <div align="left">
   <a href="mailto:parthsingla829@gmail.com" target="_blank">
@@ -47,14 +55,14 @@ I build scalable web applications using React, Next.js and Node.js; I delve into
     <img src="https://img.shields.io/badge/LeetCode-informational?logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
   <a href="https://codeforces.com/profile/ParthSingla" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-informational?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces Profile" />
-</a>
+    <img src="https://img.shields.io/badge/Codeforces-1248-informational?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces Profile" />
+  </a>
 </div>
 
-###
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Parth-Singla-123/Parth-Singla-123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-###
+---
