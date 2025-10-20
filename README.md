@@ -58,6 +58,6 @@ AIR 3515 – JEE Advanced ‘23
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Parth-Singla-123/Parth-Singla-123/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Parth-Singla-123/Parth-Singla-123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
