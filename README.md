@@ -33,38 +33,28 @@
 
 ## 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 ### Languages:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,sql" width="48" height="48"/>
 </p>
 
 ### Frameworks & Libraries:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,threejs,framer,gsap" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,threejs,framer,gsap,tensorflow,pytorch,sklearn,prisma" width="48" height="48"/>
 </p>
 
 ### Databases:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,redis" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" width="48" height="48"/>
 </p>
 
 ### Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,blender,xampp" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,blender,xampp" width="48" height="48"/>
 </p>
+
 
 ---
 
@@ -73,8 +63,8 @@
 <p align="left">
   <a href="mailto:parthsingla829@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://www.linkedin.com/in/parth-singla-077063193/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="https://leetcode.com/u/ParthSingla6900/"><img src="https://img.shields.io/badge/LeetCode-1868-informational?logo=leetcode&color=FFA116&style=for-the-badge" height="35" /></a>
-  <a href="https://codeforces.com/profile/ParthSingla"><img src="https://img.shields.io/badge/Codeforces-1248-informational?logo=codeforces&color=1F1F1F&style=for-the-badge" height="35" /></a>
+  <a href="https://leetcode.com/u/ParthSingla6900/"><img src="https://img.shields.io/badge/LeetCode-informational?logo=leetcode&color=FFA116&style=for-the-badge" height="35" /></a>
+  <a href="https://codeforces.com/profile/ParthSingla"><img src="https://img.shields.io/badge/Codeforces-informational?logo=codeforces&color=1F1F1F&style=for-the-badge" height="35" /></a>
 </p>
 
 ---
