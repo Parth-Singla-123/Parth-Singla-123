@@ -35,22 +35,22 @@
 
 ### Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,sql" width="480" height="480"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,java,cpp,cs,sql" width="480" height="480"/>
 </p>
 
 ### Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch,sklearn" width="640" height="640"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch,sklearn" width="600" height="600"/>
 </p>
 
 ### Databases:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" width="280" height="280"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" width="280" height="280"/>
 </p>
 
 ### Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,blender,xampp" width="480" height="480"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,xampp" width="480" height="480"/>
 </p>
 
 
