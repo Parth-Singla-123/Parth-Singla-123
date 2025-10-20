@@ -46,6 +46,9 @@ I build scalable web applications using React, Next.js and Node.js; I delve into
   <a href="https://leetcode.com/u/ParthSingla6900/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
+  <a href="https://codeforces.com/profile/ParthSingla" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
+  </a>
 </div>
 
 ###
