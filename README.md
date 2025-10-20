@@ -33,8 +33,6 @@
 
 ## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 ### Languages:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,sql" width="480" height="480"/>
@@ -42,12 +40,12 @@
 
 ### Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch,sklearn" width="680" height="680"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch,sklearn" width="640" height="640"/>
 </p>
 
 ### Databases:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" width="320" height="320"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" width="280" height="280"/>
 </p>
 
 ### Tools:
