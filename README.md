@@ -71,8 +71,8 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="mailto:parthsingla829@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" /></a>
-  <a href="https://www.linkedin.com/in/parth-singla-077063193/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" /></a>
+  <a href="mailto:parthsingla829@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/in/parth-singla-077063193/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
   <a href="https://leetcode.com/u/ParthSingla6900/"><img src="https://img.shields.io/badge/LeetCode-1868-informational?logo=leetcode&color=FFA116&style=for-the-badge" height="35" /></a>
   <a href="https://codeforces.com/profile/ParthSingla"><img src="https://img.shields.io/badge/Codeforces-1248-informational?logo=codeforces&color=1F1F1F&style=for-the-badge" height="35" /></a>
 </p>
