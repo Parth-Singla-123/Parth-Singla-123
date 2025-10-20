@@ -42,12 +42,12 @@
 
 ### Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,threejs,framer,gsap,tensorflow,pytorch,sklearn,prisma" width="480" height="480"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,pytorch,sklearn" width="960" height="960"/>
 </p>
 
 ### Databases:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" width="480" height="480"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" width="360" height="360"/>
 </p>
 
 ### Tools:
