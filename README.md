@@ -47,8 +47,8 @@ I build scalable web applications using React, Next.js and Node.js; I delve into
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
   <a href="https://codeforces.com/profile/ParthSingla" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
-  </a>
+  <img src="https://img.shields.io/badge/Codeforces-1248-informational?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces Profile" />
+</a>
 </div>
 
 ###
