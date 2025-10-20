@@ -1,23 +1,16 @@
 <div align="center">
   <!-- Typing animation for your roles -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Digital+Solutions" alt="Typing SVG" />
-
-  <!-- Visitor counter -->
-  <p align="center">
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/Parth-Singla-123/count.svg" />
-  </p>
 </div>
-
-<h1 align="center">
-  Hi, I'm Parth Singla
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px">
-</h1>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Parth-Singla-123/Parth-Singla-123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
+<h1 align="center">
+  Hi, I'm Parth Singla
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px">
+</h1>
 
 ## 🚀 About Me
 
