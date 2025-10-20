@@ -14,9 +14,10 @@
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px">
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=500&lines=Always+Learning,+Always+Growing;Passionate+about+Building+Digital+Solutions;Let's+Collaborate+on+Open+Source+Projects!" alt="Typing SVG" />
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Parth-Singla-123/Parth-Singla-123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 
 ## 🚀 About Me
 
