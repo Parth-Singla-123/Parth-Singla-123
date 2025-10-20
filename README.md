@@ -2,15 +2,6 @@
 
 ###
 
-<h4 align="left">
-Pre-Final Year | NSUT (CSE ‘27) <br>
-💻 Full Stack Developer | 🤖 Machine Learning Enthusiast <br>
-🏅 Knight @LeetCode (1868 max) | 🎯 Pupil @Codeforces (1248 max) <br>
-AIR 3515 – JEE Advanced ‘23
-</h4>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parth-Singla-123&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth-Singla-123&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
