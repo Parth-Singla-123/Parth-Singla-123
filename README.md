@@ -28,8 +28,7 @@
 - 👯 Looking to collaborate on **Open Source Projects** & **Contract Roles**  
 - 💬 Ask me about **Web Development**, **ML/DL**, **DSA/CP**  
 - 🎯 Goal: Contribute to impactful open-source projects & build real-world solutions  
-- 📫 Reach me at: [parthsingla829@gmail.com](mailto:parthsingla829@gmail.com)  
-- 💼 Portfolio: [parthsingla.dev](https://parthsingla.dev)  
+- 📫 Reach me at: [parthsingla829@gmail.com](mailto:parthsingla829@gmail.com)   
 - 😄 Pronouns: He/Him  
 
 ---
